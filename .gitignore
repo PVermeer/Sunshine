@@ -16,3 +16,6 @@ package-lock.json
 # Translations
 *.mo
 *.pot
+
+# Build
+artifacts/
